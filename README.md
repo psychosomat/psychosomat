@@ -15,14 +15,15 @@ Frontend    : React · TailwindCSS · TypeScript
 DevOps      : Docker · Nginx · Git · CI/CD
 ```
 ### 🔧 Current Work
-🛒 Telegram WebApp for e-commerce
+<ul>
+  <li>Telegram WebApp for e-commerce</li>
 
-🎛 Admin dashboard with product & order systems
+  <li>Admin dashboard with product & order systems</li>
 
-🧩 Built with FastAPI + React
+  <li>Built with FastAPI + React</li>
 
-⚙️ Private repo — details available on request
-
+  <li>Private repo — details available on request</li>
+</ul>
 ### 🏆 Projects & Achievements
 💻 Regional IT contests (backend & full-stack tracks)
 
