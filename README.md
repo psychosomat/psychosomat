@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack
 
 ```
-Backend     : Python · FastAPI · PostgreSQL · Redis  
+Backend     : Python · PHP · FastAPI · PostgreSQL
 Frontend    : React · TailwindCSS · TypeScript  
 DevOps      : Docker · Nginx · Git · CI/CD
 ```
