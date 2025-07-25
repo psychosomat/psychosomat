@@ -31,7 +31,7 @@ DevOps      : Docker · Nginx · Git · CI/CD
 🔒 Most work is private — see pinned repos for examples
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=psychosomat&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychosomat&layout=compact&theme=tokyonight" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychosomat&layout=compact&theme=tokyonight" width="48%" /> </p>
 
 ### 🤝 Let's Connect
 🇰🇷 Planning relocation to South Korea
