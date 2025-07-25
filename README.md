@@ -14,7 +14,7 @@ Backend     : Python · FastAPI · PostgreSQL · Redis
 Frontend    : React · TailwindCSS · TypeScript  
 DevOps      : Docker · Nginx · Git · CI/CD
 ```
-###🔧 Current Work
+### 🔧 Current Work
 🛒 Telegram WebApp for e-commerce
 
 🎛 Admin dashboard with product & order systems
@@ -23,7 +23,7 @@ DevOps      : Docker · Nginx · Git · CI/CD
 
 ⚙️ Private repo — details available on request
 
-###🏆 Projects & Achievements
+### 🏆 Projects & Achievements
 💻 Regional IT contests (backend & full-stack tracks)
 
 🧠 Solo MVPs & internal tools
@@ -32,6 +32,7 @@ DevOps      : Docker · Nginx · Git · CI/CD
 
 ### 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=psychosomat&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychosomat&layout=compact&theme=tokyonight" width="48%" /> </p>
+
 ### 🤝 Let's Connect
 🇰🇷 Planning relocation to South Korea
 
