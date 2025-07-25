@@ -24,6 +24,7 @@ DevOps      : Docker · Nginx · Git · CI/CD
 
   <li>Private repo — details available on request</li>
 </ul>
+
 ### 🏆 Projects & Achievements
 💻 Regional IT contests (backend & full-stack tracks)
 
