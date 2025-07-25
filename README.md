@@ -38,6 +38,6 @@ DevOps      : Docker · Nginx · Git · CI/CD
 
 📬 Telegram: [@Dark_blat](https://t.me/Dark_blat)
 
-📧 Email: [DmitryDark@tuta.io](DmitryDark@tuta.io)
+📧 Email: `DmitryDark@tuta.io`
 
 💼 Available for contract, startup or full-time work
