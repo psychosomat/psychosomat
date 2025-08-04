@@ -36,7 +36,7 @@ DevOps      : Docker · Nginx · Git · CI/CD
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychosomat&layout=compact&theme=tokyonight" width="48%" /> </p>
 
 ### 🤝 Let's Connect
-🇰🇷 Planning relocation to South Korea
+🇰🇷 Planning relocation
 
 📬 Telegram: [@Dark_blat](https://t.me/Dark_blat)
 
