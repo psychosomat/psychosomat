@@ -14,21 +14,7 @@ Backend     : Python · PHP · FastAPI · PostgreSQL
 Frontend    : React · TailwindCSS · TypeScript  
 DevOps      : Docker · Nginx · Git · CI/CD
 ```
-### 🔧 Current Work
-<ul>
-  <li>Telegram WebApp for e-commerce</li>
 
-  <li>Admin dashboard with product & order systems</li>
-
-  <li>Built with FastAPI + React</li>
-
-  <li>Private repo — details available on request</li>
-</ul>
-
-### 🏆 Projects & Achievements
-💻 Regional IT contests (backend & full-stack tracks)
-
-🧠 Solo MVPs & internal tools
 
 🔒 Most work is private — see pinned repos for examples
 
@@ -38,7 +24,6 @@ DevOps      : Docker · Nginx · Git · CI/CD
 ### 🤝 Let's Connect
 🇰🇷 Planning relocation
 
-📬 Telegram: [@Dark_blat](https://t.me/Dark_blat)
 
 📧 Email: `DmitryDark@tuta.io`
 
