@@ -23,4 +23,4 @@
 
 📧 Email: `DmitryDark@tuta.io`
 
-💼 Available for contract, startup or full-time work
+💼 Open to business and non-business proposals
