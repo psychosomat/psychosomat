@@ -1,26 +1,31 @@
-<h3 align="center">안녕하세요, I'm Dark — Full-Stack Web Developer</h3>
+<h2 align="center">안녕하세요, I'm Dmitriy Dark</h2>
+<p align="center">
+  Full-Stack Web Developer at <strong>PaleTale</strong><br>
+  Building fast, maintainable products with a long-term mindset
+</p>
 
 <p align="center">
-  <em>Building lean, robust web apps with modern tech.</em><br>
-  <em>현재 한국 취업을 준비 중입니다 | Open to collaboration.</em>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=python,php,go" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,fastapi" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,postgres,sqlite,git,githubactions,debian,ubuntu" /><br>
+  <img src="https://skillicons.dev/icons?i=ae,blender,ps,ai,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=vercel,nginx" />
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### What I Do:
+- Lead product development at **PaleTale**
+- Build full-stack web apps with strong architecture and clear maintainability
+- Integrate scalable backend services and modern frontend tooling
+- Focus on reliability, performance and clean engineering decisions
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" /> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" /> <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" /> <img src="https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=fff" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" /></p>
+---
 
+Most of my work is private — check pinned repositories for representative examples.
 
-🔒 Most work is private — see pinned repos for examples
-
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psychosomat&layout=compact&theme=tokyonight" width="48%" /> </p>
-
-### 🤝 Let's Connect
-🇰🇷 Planning relocation
-
-
-📧 Email: `DmitryDark@tuta.io`
-
-💼 Open to business and non-business proposals
+### Contact
+📧 Email: **DmitryDark@tuta.io**  
+🌍 Currently working full-time at *PaleTale*  
+🇰🇷 Preparing relocation — open to collaboration & opportunities
