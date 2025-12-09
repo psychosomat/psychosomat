@@ -15,16 +15,6 @@
 
 ---
 
-### What I Do:
-- Lead product development at **PaleTale**
-- Build full-stack web apps with strong architecture and clear maintainability
-- Integrate scalable backend services and modern frontend tooling
-- Focus on reliability, performance and clean engineering decisions
-
----
-
-Most of my work is private — check pinned repositories for representative examples.
-
 ### Contact
 📧 Email: **DmitryDark@tuta.io**  
 🌍 Currently working full-time at *PaleTale*  
