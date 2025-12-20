@@ -10,10 +10,3 @@
   <img src="https://skillicons.dev/icons?i=docker,postgres,sqlite,git" /><br>
   <img src="https://skillicons.dev/icons?i=blender,figma" /><br>
 </p>
-
----
-
-### Contact
-📧 Email: **DmitryDark@tuta.io**  
-🌍 Currently working full-time at *PaleTale*  
-🇰🇷 Preparing relocation — open to collaboration & opportunities
