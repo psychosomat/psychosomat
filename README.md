@@ -10,14 +10,14 @@
 
 <hr />
 
-### 🚀 Technical Focus
+### Technical Focus
 I build scalable backend architectures and immersive frontend experiences. My core expertise lies in reducing latency for data-intensive applications.
 
-- **Backend:** Go (Goroutines/Channels), Python, PHP, Node.js (Bun).
-- **Data & Infra:** PostgreSQL (TimescaleDB), Redis, Docker, Linux (Arch/Debian).
-- **Frontend:** React, Next.js, Astro, Tailwind, Three.js/R3F (Blender integration).
+- **Backend:** Go, Python, PHP, Node.js (Bun).
+- **Data & Infra:** PostgreSQL, Redis, Docker, Linux (Arch/Debian).
+- **Frontend:** React, Next.js, Astro, Tailwind, Three.js/R3F.
 
-### 🛠 Active Projects
+### Active Projects
 
 #### ⚡ **<a href="https://LimpioTerminal.pro">LimpioTerminal</a>** (Go, Redis, TimescaleDB)
 A high-frequency trading data aggregator reducing latency to ~70ms across regions.
@@ -25,9 +25,6 @@ A high-frequency trading data aggregator reducing latency to ~70ms across region
 - **Performance:** Optimized for O(1) access to realtime EMA/ATR indicators.
 - **Infrastructure:** Dockerized microservices tailored for low-resource environments.
 
-#### 🎨 **PaleTale Legacy** (Full Stack)
-Developed branding and web infrastructure for a creative agency.
-- Implemented fast rendering pipelines and custom design systems using Figma & Vite.
 
 <hr />
 
