@@ -41,7 +41,7 @@ Technical implementations focusing on performance and architecture.
 *   **[limpio-exchange-orchestrator](https://github.com/psychosomat/limpio-exchange-orchestrator)**
     *   *Role:* Go library for concurrent WebSocket orchestration.
     *   *Focus:* Zero-allocation parsing and stream management.
-*   **[ArtTribute](https://github.com/psychosomat/art-tribute)**
+*   **[ArtTribute](https://github.com/psychosomat/arttribute)**
     *   *Role:* GitHub activity manipulation engine.
     *   *Focus:* Meta-data orchestration and visual data mapping.
 
