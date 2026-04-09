@@ -26,24 +26,23 @@ I build scalable backend architectures and immersive frontend experiences.
   </div>
 </div>
 
-
-### My Works
-Technical implementations focusing on performance and architecture.
+### My Pet-Projects
 
 *   **[LimpioTerminal](https://limpioterminal.pro)**
     *   *Role:* High-frequency data aggregator.
     *   *Stack:* Go, Redis, TimescaleDB.
-    *   *Focus:* O(1) indicator calculations, ~70ms inter-region latency.
 *   **[Kanso](https://github.com/psychosomat/kanso)**
     *   *Role:* Cross-platform media player.
     *   *Stack:* TypeScript, Tanstack, Electron.
-    *   *Focus:* High-fidelity animations and optimized rendering pipeline.
 *   **[limpio-exchange-orchestrator](https://github.com/psychosomat/limpio-exchange-orchestrator)**
     *   *Role:* Go library for concurrent WebSocket orchestration.
-    *   *Focus:* Zero-allocation parsing and stream management.
+    *   *Stack:* Go, Gin, Websockets.
 *   **[ArtTribute](https://github.com/psychosomat/arttribute)**
     *   *Role:* GitHub activity manipulation engine.
-    *   *Focus:* Meta-data orchestration and visual data mapping.
+    *   *Stack:* Bun, Vite.
+*   **[Scheduler](https://github.com/psychosomat/scheduler)**
+    *   *Role:* Desktop schedule management system for educational institutions.
+    *   *Stack:* TypeScript, TanStack, Electron.
 
 ---
 <div align="center">
