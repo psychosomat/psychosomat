@@ -43,7 +43,9 @@ I build scalable backend architectures and immersive frontend experiences.
 *   **[Scheduler](https://github.com/psychosomat/scheduler)**
     *   *Role:* Desktop schedule management system for educational institutions.
     *   *Stack:* TypeScript, TanStack, Electron.
-
+*   **[WashiBird](https://github.com/psychosomat/washibird)**
+    *   *Role:* Custom UI override engine and CSS-injector for Thunderbird.
+    *   *Stack:* WebExtensions API, CSS, JavaScript.
 ---
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,postgres,redis,docker,linux,react,nextjs,threejs,astro,figma&perline=11" />
