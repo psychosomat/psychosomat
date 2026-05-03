@@ -40,9 +40,6 @@ I build scalable backend architectures and immersive frontend experiences.
 *   **[ArtTribute](https://github.com/psychosomat/arttribute)**
     *   *Role:* GitHub activity manipulation engine.
     *   *Stack:* Bun, Vite.
-*   **[Scheduler](https://github.com/psychosomat/scheduler)**
-    *   *Role:* Desktop schedule management system for educational institutions.
-    *   *Stack:* TypeScript, TanStack, Electron.
 *   **[WashiBird](https://github.com/psychosomat/washibird)**
     *   *Role:* Custom UI override engine and CSS-injector for Thunderbird.
     *   *Stack:* WebExtensions API, CSS, JavaScript.
