@@ -22,7 +22,7 @@ I build scalable backend architectures and immersive frontend experiences.
     <img alt="Static Badge" src="https://img.shields.io/badge/Postgresql-24283b?style=for-the-badge&logo=Postgresql&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/redis-24283b?style=for-the-badge&logo=redis&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/docker-24283b?style=for-the-badge&logo=docker&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/archlinux-24283b?style=for-the-badge&logo=archlinux&logoColor=f5f5f5&logoSize=26">
   </div>
   <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/react-24283b?style=for-the-badge&logo=react&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/next.js-24283b?style=for-the-badge&logo=nextdotjs&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/tanstack-24283b?style=for-the-badge&logo=tanstack&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/astro-24283b?style=for-the-badge&logo=astro&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-24283b?style=for-the-badge&logo=tailwindcss&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/three.js-24283b?style=for-the-badge&logo=threedotjs&logoColor=f5f5f5&logoSize=26">
+    <img alt="Static Badge" src="https://img.shields.io/badge/react-24283b?style=for-the-badge&logo=react&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/next.js-24283b?style=for-the-badge&logo=nextdotjs&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/tanstack-24283b?style=for-the-badge&logo=tanstack&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-24283b?style=for-the-badge&logo=tailwindcss&logoColor=f5f5f5&logoSize=26"> <img alt="Static Badge" src="https://img.shields.io/badge/three.js-24283b?style=for-the-badge&logo=threedotjs&logoColor=f5f5f5&logoSize=26">
   </div>
 </div>
 
@@ -45,5 +45,5 @@ I build scalable backend architectures and immersive frontend experiences.
     *   *Stack:* WebExtensions API, CSS, JavaScript.
 ---
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,postgres,redis,docker,linux,react,nextjs,threejs,astro,figma&perline=11" />
+  <img src="https://skillicons.dev/icons?i=go,ts,postgres,redis,docker,linux,react,nextjs,threejs,figma&perline=11" />
 </div>
