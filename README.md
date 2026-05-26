@@ -37,6 +37,9 @@ I build scalable backend architectures and immersive frontend experiences.
 *   **[limpio-exchange-orchestrator](https://github.com/psychosomat/limpio-exchange-orchestrator)**
     *   *Role:* Go library for concurrent WebSocket orchestration.
     *   *Stack:* Go, Gin, Websockets.
+*   **[Clio](https://github.com/psychosomat/Clio)**
+    *   *Role:* A lightning-fast, keyboard-driven TUI for taking Markdown notes in the terminal.
+    *   *Stack:* Go, Bubble Tea.
 *   **[ArtTribute](https://github.com/psychosomat/arttribute)**
     *   *Role:* GitHub activity manipulation engine.
     *   *Stack:* Bun, Vite.
