@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Dmitrii Dark — Go &amp; TypeScript</title>
+  <desc id="desc">Terminal-styled profile card: system init, name, role, focus areas and open-for-remote status.</desc>
+
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", PingFang SC, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="#151515"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#E2725B"/>
+
+  <g id="title-block" transform="translate(56 0)">
+    <rect x="0" y="54" width="14" height="14" fill="#E2725B"/>
+    <text class="mono" x="28" y="66" font-size="20" fill="#E2725B" letter-spacing="2">SYS.INIT ▸ PROFILE</text>
+
+    <text class="sans" x="0" y="146" font-size="64" font-weight="700" fill="#F5F5F5">Dmitrii Dark</text>
+    <text class="sans" x="0" y="190" font-size="26" font-weight="500" fill="#F5F5F5">Go &amp; TypeScript</text>
+
+    <text class="sans" x="0" y="240" font-size="20" fill="#9A9A9A">I build high-performance web applications,</text>
+    <text class="sans" x="0" y="268" font-size="20" fill="#9A9A9A">from database design to user interface.</text>
+
+    <text class="mono" x="0" y="330" font-size="18" fill="#9A9A9A">@psychosomat  ·  ddark.dev  ·  open for remote</text>
+  </g>
+
+  <g id="terminal" transform="translate(680 60)">
+    <rect x="0" y="0" width="464" height="240" rx="8" fill="#1E1E1E" stroke="#2B2B2B" stroke-width="1"/>
+    <line x1="0" y1="38" x2="464" y2="38" stroke="#2B2B2B" stroke-width="1"/>
+
+    <circle cx="20" cy="19" r="5" fill="#4A4A4A"/>
+    <circle cx="40" cy="19" r="5" fill="#4A4A4A"/>
+    <circle cx="60" cy="19" r="5" fill="#4A4A4A"/>
+    <text class="mono" x="232" y="24" font-size="14" fill="#9A9A9A" text-anchor="middle">dmitriidark — zsh</text>
+
+    <g class="mono" font-size="20">
+      <text x="24" y="74" fill="#E2725B">❯</text>
+      <text x="46" y="74" fill="#F5F5F5">whoami</text>
+      <text x="46" y="100" fill="#9A9A9A">dmitrii dark</text>
+
+      <text x="24" y="132" fill="#E2725B">❯</text>
+      <text x="46" y="132" fill="#F5F5F5">stack</text>
+      <text x="46" y="158" fill="#9A9A9A">go · typescript · react · postgres</text>
+
+      <text x="24" y="190" fill="#E2725B">❯</text>
+      <text x="46" y="190" fill="#F5F5F5">focus</text>
+      <text x="46" y="216" fill="#9A9A9A">low-latency apis · performance web</text>
+    </g>
+  </g>
+</svg>
