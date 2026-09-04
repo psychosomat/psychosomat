@@ -53,21 +53,21 @@
     <text class="fat" x="64" y="360" font-size="12" letter-spacing="2" fill="#9A9A9A">MMXXVI · DDARK.DEV</text>
 
     <!-- engineering title block -->
-    <g>
-      <rect x="788.5" y="264.5" width="350" height="101" fill="#111111" stroke="#2B2B2B"/>
-      <line x1="788.5" y1="298" x2="1135.5" y2="298" stroke="#2B2B2B"/>
-      <line x1="788.5" y1="331.5" x2="1135.5" y2="331.5" stroke="#2B2B2B"/>
-      <line x1="884.5" y1="264.5" x2="884.5" y2="365.5" stroke="#2B2B2B"/>
+    <g transform="translate(700 250) scale(1.25)">
+      <rect x="0" y="0" width="350" height="101" fill="#111111" stroke="#2B2B2B"/>
+      <line x1="0" y1="33.5" x2="347" y2="33.5" stroke="#2B2B2B"/>
+      <line x1="0" y1="67" x2="347" y2="67" stroke="#2B2B2B"/>
+      <line x1="96" y1="0" x2="96" y2="101" stroke="#2B2B2B"/>
 
-      <text class="fat" x="804" y="286" font-size="14" letter-spacing="2" fill="#E2725B">ROLE</text>
-      <text class="fat" x="900" y="286" font-size="14" letter-spacing="1" fill="#F5F5F5">SOFTWARE ENGINEER</text>
+      <text class="fat" x="15.5" y="21.5" font-size="14" letter-spacing="2" fill="#E2725B">ROLE</text>
+      <text class="fat" x="111.5" y="21.5" font-size="14" letter-spacing="1" fill="#F5F5F5">SOFTWARE ENGINEER</text>
 
-      <text class="fat" x="804" y="319" font-size="14" letter-spacing="2" fill="#E2725B">STACK</text>
-      <text class="fat" x="900" y="319" font-size="14" letter-spacing="1" fill="#F5F5F5">GO · TS · REACT · POSTGRES</text>
+      <text class="fat" x="15.5" y="54.5" font-size="14" letter-spacing="2" fill="#E2725B">STACK</text>
+      <text class="fat" x="111.5" y="54.5" font-size="14" letter-spacing="1" fill="#F5F5F5">GO · TS · REACT · POSTGRES</text>
 
-      <text class="fat" x="804" y="353" font-size="14" letter-spacing="2" fill="#E2725B">STATUS</text>
-      <circle cx="906" cy="349" r="3.5" fill="#E2725B"/>
-      <text class="fat" x="918" y="353" font-size="14" letter-spacing="1" fill="#F5F5F5">OPEN FOR REMOTE</text>
+      <text class="fat" x="15.5" y="88.5" font-size="14" letter-spacing="2" fill="#E2725B">STATUS</text>
+      <circle cx="117.5" cy="84.5" r="3.5" fill="#E2725B"/>
+      <text class="fat" x="129.5" y="88.5" font-size="14" letter-spacing="1" fill="#F5F5F5">OPEN FOR REMOTE</text>
     </g>
   </g>
 </svg>
