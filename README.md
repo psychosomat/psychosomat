@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Dmitrii Dark — Software Engineer, Go and TypeScript. High-performance web applications from database design to user interface. Open for remote opportunities.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Dmitrii Dark| Creative Developer">
 </p>
 
 <p align="center">
